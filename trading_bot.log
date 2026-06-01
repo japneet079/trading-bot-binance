@@ -1,0 +1,8 @@
+2026-06-01 21:58:43,568 [INFO] Sending Order Request: BTCUSDT | BUY | MARKET | Qty: 0.001
+2026-06-01 21:58:44,365 [ERROR] Binance API Error: API-key format invalid. (Code: -2014)
+2026-06-01 21:59:42,107 [INFO] Sending Order Request: BTCUSDT | BUY | MARKET | Qty: 0.001
+2026-06-01 21:59:42,747 [ERROR] Binance API Error: API-key format invalid. (Code: -2014)
+2026-06-01 22:09:12,827 [INFO] Sending Order Request: BTCUSDT | BUY | MARKET | Qty: 0.001
+2026-06-01 22:09:13,483 [INFO] Order Successful! OrderID: 13712577559
+2026-06-01 22:09:57,062 [INFO] Sending Order Request: BTCUSDT | BUY | LIMIT | Qty: 0.001
+2026-06-01 22:09:57,667 [INFO] Order Successful! OrderID: 13712634424
